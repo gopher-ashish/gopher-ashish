@@ -8,7 +8,6 @@
 <br>
 <img align="right" src="https://github.com/gopher-ashish/gopher-ashish/blob/master/assets/gif/go.gif" width="200px" />
 
-- 🔭 I’m currently working with [scalent](https://scalent.io/) {:target="_blank"} as Backend Golang Developer
 - 👯 I’m looking to collaborate in Open Source Projects
 - 💬 Ask me about [Go](https://golang.org/)
 - 📫 How to reach me: [ashish.nik16@gmail.com]()
